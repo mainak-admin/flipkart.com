@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="212680" started-at="2020-08-10T20:01:56 IST" finished-at="2020-08-10T20:05:28 IST">
+    <groups>
+      <group name="regression">
+        <method signature="FlipkartTest.SecondItem()[pri:10, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="SecondItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.ThirdItem()[pri:17, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="ThirdItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.addFirstItem()[pri:7, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addFirstItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.addSecondItem()[pri:11, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addSecondItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.addThirdItem()[pri:18, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addThirdItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnACtab()[pri:16, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnACtab" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnCart1()[pri:12, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnCart1" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnCart2()[pri:19, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnCart2" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnFridge()[pri:5, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnFridge" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnLogin()[pri:2, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnLogin" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.clickOnTelevision()[pri:9, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnTelevision" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.enterEmailForLogin()[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="enterEmailForLogin" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.enterPasswordForLogin()[pri:1, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="enterPasswordForLogin" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.firstItem()[pri:6, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="firstItem" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.getTitle()[pri:3, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="getTitle" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.homeAppliances()[pri:4, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.homeAppliances1()[pri:8, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances1" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.homeAppliances2()[pri:15, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances2" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.logOut()[pri:23, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="logOut" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.remove()[pri:22, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="remove" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.screenshot_final()[pri:20, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="screenshot_final" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.screenshot_initial()[pri:13, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="screenshot_initial" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.writeDataInExcel()[pri:21, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="writeDataInExcel" class="flipkart.Test.FlipkartTest"/>
+        <method signature="FlipkartTest.writeDataInExcel1()[pri:14, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="writeDataInExcel1" class="flipkart.Test.FlipkartTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Default test" duration-ms="212680" started-at="2020-08-10T20:01:56 IST" finished-at="2020-08-10T20:05:28 IST">
+      <class name="flipkart.Test.FlipkartTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="setup" is-config="true" duration-ms="13141" started-at="2020-08-10T20:01:56 IST" finished-at="2020-08-10T20:02:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enterEmailForLogin()[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="enterEmailForLogin" duration-ms="6730" started-at="2020-08-10T20:02:09 IST" description="Entering email for login" finished-at="2020-08-10T20:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmailForLogin -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="777" started-at="2020-08-10T20:02:16 IST" finished-at="2020-08-10T20:02:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterEmailForLogin status=SUCCESS method=FlipkartTest.enterEmailForLogin()[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="enterPasswordForLogin()[pri:1, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="enterPasswordForLogin" duration-ms="2312" started-at="2020-08-10T20:02:17 IST" description="Entering password for login" finished-at="2020-08-10T20:02:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPasswordForLogin -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="72" started-at="2020-08-10T20:02:19 IST" finished-at="2020-08-10T20:02:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterPasswordForLogin status=SUCCESS method=FlipkartTest.enterPasswordForLogin()[pri:1, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnLogin()[pri:2, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnLogin" duration-ms="10136" started-at="2020-08-10T20:02:19 IST" description="Click on login button" finished-at="2020-08-10T20:02:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogin -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="72" started-at="2020-08-10T20:02:29 IST" finished-at="2020-08-10T20:02:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnLogin status=SUCCESS method=FlipkartTest.clickOnLogin()[pri:2, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="getTitle()[pri:3, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="getTitle" duration-ms="32" started-at="2020-08-10T20:02:29 IST" finished-at="2020-08-10T20:02:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="38" started-at="2020-08-10T20:02:29 IST" finished-at="2020-08-10T20:02:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getTitle status=SUCCESS method=FlipkartTest.getTitle()[pri:3, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="homeAppliances()[pri:4, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances" duration-ms="3242" started-at="2020-08-10T20:02:29 IST" finished-at="2020-08-10T20:02:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAppliances -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="35" started-at="2020-08-10T20:02:33 IST" finished-at="2020-08-10T20:02:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homeAppliances status=SUCCESS method=FlipkartTest.homeAppliances()[pri:4, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnFridge()[pri:5, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnFridge" duration-ms="6147" started-at="2020-08-10T20:02:33 IST" finished-at="2020-08-10T20:02:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFridge -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="75" started-at="2020-08-10T20:02:39 IST" finished-at="2020-08-10T20:02:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnFridge status=SUCCESS method=FlipkartTest.clickOnFridge()[pri:5, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="firstItem()[pri:6, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="firstItem" duration-ms="8269" started-at="2020-08-10T20:02:39 IST" finished-at="2020-08-10T20:02:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="42" started-at="2020-08-10T20:02:47 IST" finished-at="2020-08-10T20:02:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=firstItem status=SUCCESS method=FlipkartTest.firstItem()[pri:6, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="addFirstItem()[pri:7, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addFirstItem" duration-ms="14853" started-at="2020-08-10T20:02:47 IST" finished-at="2020-08-10T20:03:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="39" started-at="2020-08-10T20:03:02 IST" finished-at="2020-08-10T20:03:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addFirstItem status=SUCCESS method=FlipkartTest.addFirstItem()[pri:7, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="homeAppliances1()[pri:8, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances1" duration-ms="3163" started-at="2020-08-10T20:03:02 IST" finished-at="2020-08-10T20:03:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAppliances1 -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="54" started-at="2020-08-10T20:03:05 IST" finished-at="2020-08-10T20:03:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homeAppliances1 status=SUCCESS method=FlipkartTest.homeAppliances1()[pri:8, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnTelevision()[pri:9, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnTelevision" duration-ms="5198" started-at="2020-08-10T20:03:05 IST" finished-at="2020-08-10T20:03:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTelevision -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="31" started-at="2020-08-10T20:03:10 IST" finished-at="2020-08-10T20:03:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnTelevision status=SUCCESS method=FlipkartTest.clickOnTelevision()[pri:9, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="SecondItem()[pri:10, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="SecondItem" duration-ms="5142" started-at="2020-08-10T20:03:10 IST" finished-at="2020-08-10T20:03:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="49" started-at="2020-08-10T20:03:16 IST" finished-at="2020-08-10T20:03:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SecondItem status=SUCCESS method=FlipkartTest.SecondItem()[pri:10, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="addSecondItem()[pri:11, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addSecondItem" duration-ms="14434" started-at="2020-08-10T20:03:16 IST" finished-at="2020-08-10T20:03:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSecondItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="42" started-at="2020-08-10T20:03:30 IST" finished-at="2020-08-10T20:03:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSecondItem status=SUCCESS method=FlipkartTest.addSecondItem()[pri:11, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnCart1()[pri:12, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnCart1" duration-ms="10211" started-at="2020-08-10T20:03:30 IST" finished-at="2020-08-10T20:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCart1 -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="62" started-at="2020-08-10T20:03:40 IST" finished-at="2020-08-10T20:03:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnCart1 status=SUCCESS method=FlipkartTest.clickOnCart1()[pri:12, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="screenshot_initial()[pri:13, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="screenshot_initial" duration-ms="10576" started-at="2020-08-10T20:03:40 IST" finished-at="2020-08-10T20:03:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot_initial -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="33" started-at="2020-08-10T20:03:51 IST" finished-at="2020-08-10T20:03:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshot_initial status=SUCCESS method=FlipkartTest.screenshot_initial()[pri:13, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="writeDataInExcel1()[pri:14, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="writeDataInExcel1" duration-ms="14169" started-at="2020-08-10T20:03:51 IST" finished-at="2020-08-10T20:04:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeDataInExcel1 -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="28" started-at="2020-08-10T20:04:05 IST" finished-at="2020-08-10T20:04:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=writeDataInExcel1 status=SUCCESS method=FlipkartTest.writeDataInExcel1()[pri:14, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="homeAppliances2()[pri:15, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="homeAppliances2" duration-ms="2159" started-at="2020-08-10T20:04:05 IST" finished-at="2020-08-10T20:04:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAppliances2 -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="44" started-at="2020-08-10T20:04:07 IST" finished-at="2020-08-10T20:04:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homeAppliances2 status=SUCCESS method=FlipkartTest.homeAppliances2()[pri:15, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnACtab()[pri:16, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnACtab" duration-ms="5313" started-at="2020-08-10T20:04:08 IST" finished-at="2020-08-10T20:04:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnACtab -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="51" started-at="2020-08-10T20:04:13 IST" finished-at="2020-08-10T20:04:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnACtab status=SUCCESS method=FlipkartTest.clickOnACtab()[pri:16, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="ThirdItem()[pri:17, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="ThirdItem" duration-ms="3213" started-at="2020-08-10T20:04:13 IST" finished-at="2020-08-10T20:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="38" started-at="2020-08-10T20:04:16 IST" finished-at="2020-08-10T20:04:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ThirdItem status=SUCCESS method=FlipkartTest.ThirdItem()[pri:17, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="addThirdItem()[pri:18, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="addThirdItem" duration-ms="13539" started-at="2020-08-10T20:04:16 IST" finished-at="2020-08-10T20:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addThirdItem -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="50" started-at="2020-08-10T20:04:30 IST" finished-at="2020-08-10T20:04:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addThirdItem status=SUCCESS method=FlipkartTest.addThirdItem()[pri:18, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="clickOnCart2()[pri:19, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="clickOnCart2" duration-ms="10220" started-at="2020-08-10T20:04:30 IST" finished-at="2020-08-10T20:04:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCart2 -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="26" started-at="2020-08-10T20:04:40 IST" finished-at="2020-08-10T20:04:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnCart2 status=SUCCESS method=FlipkartTest.clickOnCart2()[pri:19, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="screenshot_final()[pri:20, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="screenshot_final" duration-ms="10411" started-at="2020-08-10T20:04:40 IST" finished-at="2020-08-10T20:04:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot_final -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="26" started-at="2020-08-10T20:04:50 IST" finished-at="2020-08-10T20:04:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=screenshot_final status=SUCCESS method=FlipkartTest.screenshot_final()[pri:20, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="writeDataInExcel()[pri:21, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="writeDataInExcel" duration-ms="382" started-at="2020-08-10T20:04:50 IST" finished-at="2020-08-10T20:04:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeDataInExcel -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="25" started-at="2020-08-10T20:04:51 IST" finished-at="2020-08-10T20:04:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=writeDataInExcel status=SUCCESS method=FlipkartTest.writeDataInExcel()[pri:21, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="remove()[pri:22, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="remove" duration-ms="27806" started-at="2020-08-10T20:04:51 IST" finished-at="2020-08-10T20:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="39" started-at="2020-08-10T20:05:19 IST" finished-at="2020-08-10T20:05:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=remove status=SUCCESS method=FlipkartTest.remove()[pri:22, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="logOut()[pri:23, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="logOut" duration-ms="8394" started-at="2020-08-10T20:05:19 IST" finished-at="2020-08-10T20:05:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="flush(org.testng.ITestResult)[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="flush" is-config="true" duration-ms="33" started-at="2020-08-10T20:05:27 IST" finished-at="2020-08-10T20:05:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logOut status=SUCCESS method=FlipkartTest.logOut()[pri:23, instance:flipkart.Test.FlipkartTest@2c5d601e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:flipkart.Test.FlipkartTest@2c5d601e]" name="closeDriver" is-config="true" duration-ms="1022" started-at="2020-08-10T20:05:27 IST" finished-at="2020-08-10T20:05:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- flipkart.Test.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

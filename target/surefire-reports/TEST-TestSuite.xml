@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="225.954" tests="43" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\bin"/>
+    <property name="java.vm.version" value="25.241-b07"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\user\eclipse-Mainak\flipkart.com"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\user\eclipse-Mainak\flipkart.com"/>
+    <property name="java.runtime.version" value="1.8.0_241-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\user\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\user\eclipse-Mainak\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1274661899739074543.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_241\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_241/bin/server;C:/Program Files/Java/jre1.8.0_241/bin;C:/Program Files/Java/jre1.8.0_241/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\C:;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Program Files\nodejs\;C:\room\Maven\apache-maven-3.6.3\bin;C:\room\Allure\allure-2.13.5\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\room\Internet explorer driver;C:\Users\user\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python37\;C:\Users\user\AppData\Roaming\npm;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\room\eclipse-java-2020-03-R-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\user"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="user"/>
+    <property name="java.class.path" value="C:\room\eclipse-java-2020-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_241\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_241"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_241\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_241\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\user\eclipse-Mainak\flipkart.com\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="checkEmailField_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.458"/>
+  <testcase name="enterEmailForLogin_SmokeTest" classname="flipkart.Test.SmokeTest" time="3.204"/>
+  <testcase name="checkPassword_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.085"/>
+  <testcase name="enterPassword_smokeTesting" classname="flipkart.Test.SmokeTest" time="2.16"/>
+  <testcase name="checkLogin_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.044"/>
+  <testcase name="clickOnLogin_smokeTesting" classname="flipkart.Test.SmokeTest" time="10.085"/>
+  <testcase name="checkTitle_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.03"/>
+  <testcase name="checkAccount_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.036"/>
+  <testcase name="checkCart_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.031"/>
+  <testcase name="checkHomeAppliances_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.025"/>
+  <testcase name="homeAppliances_smokeTesting" classname="flipkart.Test.SmokeTest" time="3.17"/>
+  <testcase name="checkFridge_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.037"/>
+  <testcase name="checkTV_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.028"/>
+  <testcase name="checkAC_SmokeTest" classname="flipkart.Test.SmokeTest" time="0.033"/>
+  <testcase name="logOut_SmokeTest" classname="flipkart.Test.SmokeTest" time="8.349"/>
+  <testcase name="enterEmailForLogin" classname="flipkart.Test.FlipkartTest" time="1.351"/>
+  <testcase name="enterPasswordForLogin" classname="flipkart.Test.FlipkartTest" time="2.193"/>
+  <testcase name="clickOnLogin" classname="flipkart.Test.FlipkartTest" time="10.1"/>
+  <testcase name="getTitle" classname="flipkart.Test.FlipkartTest" time="0.014"/>
+  <testcase name="homeAppliances" classname="flipkart.Test.FlipkartTest" time="3.142"/>
+  <testcase name="clickOnFridge" classname="flipkart.Test.FlipkartTest" time="6.093"/>
+  <testcase name="firstItem" classname="flipkart.Test.FlipkartTest" time="8.102"/>
+  <testcase name="addFirstItem" classname="flipkart.Test.FlipkartTest" time="14.58"/>
+  <testcase name="homeAppliances1" classname="flipkart.Test.FlipkartTest" time="3.136"/>
+  <testcase name="clickOnTelevision" classname="flipkart.Test.FlipkartTest" time="5.223"/>
+  <testcase name="SecondItem" classname="flipkart.Test.FlipkartTest" time="5.129"/>
+  <testcase name="addSecondItem" classname="flipkart.Test.FlipkartTest" time="14.43"/>
+  <testcase name="clickOnCart1" classname="flipkart.Test.FlipkartTest" time="10.206"/>
+  <testcase name="screenshot_initial" classname="flipkart.Test.FlipkartTest" time="10.416"/>
+  <testcase name="writeDataInExcel1" classname="flipkart.Test.FlipkartTest" time="13.717"/>
+  <testcase name="homeAppliances2" classname="flipkart.Test.FlipkartTest" time="2.149"/>
+  <testcase name="clickOnACtab" classname="flipkart.Test.FlipkartTest" time="5.377"/>
+  <testcase name="ThirdItem" classname="flipkart.Test.FlipkartTest" time="3.209"/>
+  <testcase name="addThirdItem" classname="flipkart.Test.FlipkartTest" time="13.577"/>
+  <testcase name="clickOnCart2" classname="flipkart.Test.FlipkartTest" time="10.241"/>
+  <testcase name="screenshot_final" classname="flipkart.Test.FlipkartTest" time="10.385"/>
+  <testcase name="writeDataInExcel" classname="flipkart.Test.FlipkartTest" time="0.269"/>
+  <testcase name="remove" classname="flipkart.Test.FlipkartTest" time="27.683"/>
+  <testcase name="logOut" classname="flipkart.Test.FlipkartTest" time="8.345"/>
+  <testcase name="enterEmailForLogin_NegativeTest" classname="flipkart.Test.NegativeTest" time="2.259"/>
+  <testcase name="enterPassword_NegativeTest" classname="flipkart.Test.NegativeTest" time="1.375">
+    <failure message="expected [flipk@rt123] but found [flipk@rt4564]" type="java.lang.AssertionError">java.lang.AssertionError: expected [flipk@rt123] but found [flipk@rt4564]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at flipkart.Test.NegativeTest.enterPassword_NegativeTest(NegativeTest.java:92)
+</failure>
+    <system-out><![CDATA[08-12-2020 20:44:30 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+08-12-2020 20:44:30 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+08-12-2020 20:44:30 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+08-12-2020 20:44:30 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+08-12-2020 20:44:30 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+08-12-2020 20:44:31 NegativeTest.java INFO  [main] Test.NegativeTest 86 - **********************Entering password for negative testing**********************
+08-12-2020 20:44:32 NegativeTest.java INFO  [main] Test.NegativeTest 88 - **********************Checking email for negative testing**********************
+]]></system-out>
+  </testcase>
+  <testcase name="clickOnLogin_NegativeTest" classname="flipkart.Test.NegativeTest" time="2.088"/>
+  <testcase name="screenshot_NegativeTest" classname="flipkart.Test.NegativeTest" time="3.39"/>
+</testsuite>

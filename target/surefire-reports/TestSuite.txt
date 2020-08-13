@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 43, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 261.969 sec <<< FAILURE! - in TestSuite
+enterPassword_NegativeTest(flipkart.Test.NegativeTest)  Time elapsed: 1.375 sec  <<< FAILURE!
+java.lang.AssertionError: expected [flipk@rt123] but found [flipk@rt4564]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at flipkart.Test.NegativeTest.enterPassword_NegativeTest(NegativeTest.java:92)
+
